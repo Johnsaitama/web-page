@@ -1,0 +1,200 @@
+
+.flat-button {
+    color: #ffd700;
+    font-size: 13px;
+    width: 100px;
+    letter-spacing: 2px;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 10px 18px;
+    border: 1px solid #ffffff;
+    margin-top: -199px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   display: flex;
+    justify-content: center;
+    animation: fadeIn 3s 0s backwards;
+    white-space: nowrap;
+    &:hover{
+        background-color: #4300fd;
+        color: #fffefe;
+    }
+}
+
+p{
+    color: rgb(255, 255, 255);
+    font-family:  sans-serif;
+    font-size: large;
+}
+
+.project-title{
+.text-zone{
+    position: absolute;
+    left: 10%;
+    top: 8%;
+    animation: fadeIn 5s forwards;
+    h1 {
+        font-size: 53px;
+        font-family: 'coolvetica';
+        color: #ffd700;
+        font-weight: 400;
+        margin-top: 0;
+        position: relative;
+        margin-bottom: 40px;
+        left: 10px;
+   
+        &::before{
+            content: '<h1>';
+            font-family: 'La Belle Aurore';
+            font-size: 18px;
+            position: absolute;
+            margin-top: -10px;
+            left: -10px;
+            opacity: 0.6;
+            line-height: 18px;
+        }
+
+        &::after{
+            content: '<h1/>';
+            font-family: 'La Belle Aurore';
+            font-size: 18px;
+            line-height: 18px;
+            position: absolute;
+            left: -30px;
+            bottom: -20px;
+            margin-left: 20px;
+            opacity: 0.6;
+        }
+    }
+
+}
+}
+
+
+* {
+    box-sizing: border-box;
+  }
+
+.projectgallery{
+    text-align: center;
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+  top: 20%;
+  justify-content: center;
+  animation: fadeInUp 3s 0s;
+    animation-fill-mode: forwards;
+}
+  
+.cars {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 200px 5%; 
+    justify-content: center;
+  }
+   
+
+   
+  .add-cars {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+   
+        height: 1.0rem;
+        justify-content: center;
+        text-align: center;
+        // /* Display the containers side by side */
+        margin-right: 10px;    /* Add some spacing between containers */
+        margin-bottom: 50px; 
+        display: flex;
+  }
+   
+  .add-cars button {
+    font-size: 16px;
+    padding: 8px;
+    margin: 0 10px 30px 10px;
+    animation: fadeInUp 6s 0s;
+    animation-fill-mode: forwards;
+  }
+   
+  .car {
+    padding: 5px 25px 10px 25px;
+    max-width: 24%;
+    border: 1px solid #999;  
+    border-radius: 10px;
+    margin: 5px;
+    animation: fadeInUp 3s 0s;
+    animation-fill-mode: forwards;
+  }
+  
+  /* car form styles */
+   
+  .car-form {
+    width: 250px;
+    margin: 0 auto;
+    
+    animation-fill-mode: forwards;
+  }
+   
+ 
+   
+  .car-form button {
+    font-size: 16px;
+    padding: 4px;
+    margin: 10px 10px 30px 10px;
+    animation: fadeInUp 3s 0s;
+    animation-fill-mode: forwards;
+    color: #ffd700;
+    font-size: 13px;
+    width: 100px;
+    letter-spacing: 2px;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 10px 18px;
+    border: 1px solid #ffffff;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   display: flex;
+    justify-content: center;
+    animation: fadeIn 3s 0s backwards;
+    white-space: nowrap;
+    &:hover{
+        background-color: #00fd0d;
+        color: #000000;
+    }
+  }
+  
+  
+  .Project1{
+    margin: 70;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+   
+  }
+  
+  .type{
+    color: #000000;
+    text-align: center;
+   
+   size: 10px;
+  }
+  h3 {
+    font-size: 30px;
+    right: 10%;
+    margin: 0 50px 0px 10px;
+    display: flex;
+   color: #fffdfd;
+    justify-content: center;
+  }
+  .project-container {
+    // Set the parent container to allow vertical scrolling
+    overflow-y: auto;
+    max-height: 100vh; 
+    scrollbar-gutter: stable;
+    animation: fadeInUp 3s 0s;
+  }
