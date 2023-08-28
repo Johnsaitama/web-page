@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/web-page/static/css/main.8be1fdbd.css",
-    "main.js": "/web-page/static/js/main.76ee0980.js",
+    "main.js": "/web-page/static/js/main.033e1913.js",
     "static/media/20 .png": "/web-page/static/media/20 .02c915ebf28bd469ae36.png",
     "static/media/background.png": "/web-page/static/media/background.524a505373a6c3cd1725.png",
     "static/media/15.png": "/web-page/static/media/15.337466f7b1709f479285.png",
@@ -10,7 +10,7 @@
     "static/media/13.png": "/web-page/static/media/13.c121d0cd1a01d074ee09.png",
     "static/media/9.png": "/web-page/static/media/9.403264aae9f692736e3b.png",
     "static/media/17.png": "/web-page/static/media/17.d3e37705c59a6d750ebd.png",
-    "static/media/18.png": "/web-page/static/media/18.f5666121c5c6ba0194f0.png",
+    "static/media/21.png": "/web-page/static/media/21.2d49d083942be712501d.png",
     "static/media/14.png": "/web-page/static/media/14.821cf3752b398c5c90e6.png",
     "static/media/20.png": "/web-page/static/media/20.796f343914a72d1744ca.png",
     "static/media/11.png": "/web-page/static/media/11.b3d819341ea8e09cf60c.png",
@@ -23,10 +23,10 @@
     "static/media/CoolveticaRg-Regular.woff2": "/web-page/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/web-page/index.html",
     "main.8be1fdbd.css.map": "/web-page/static/css/main.8be1fdbd.css.map",
-    "main.76ee0980.js.map": "/web-page/static/js/main.76ee0980.js.map"
+    "main.033e1913.js.map": "/web-page/static/js/main.033e1913.js.map"
   },
   "entrypoints": [
     "static/css/main.8be1fdbd.css",
-    "static/js/main.76ee0980.js"
+    "static/js/main.033e1913.js"
   ]
 }
