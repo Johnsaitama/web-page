@@ -1,5 +1,5 @@
 import './cer.scss'
-import Img18 from '../../assets/projectsimg/18.png'
+import Img18 from '../../assets/projectsimg/21.png'
 import Img19 from '../../assets/projectsimg/20 .png'
 import Img20 from '../../assets/projectsimg/20.png'
 import Loader from 'react-loaders'
